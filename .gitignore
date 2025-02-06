@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+
+# development mode
+dev.js
+
+# env
+.env
+
+.DS_Store

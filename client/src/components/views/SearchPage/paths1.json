@@ -1,0 +1,75 @@
+[
+  {
+    "path_name": "아산공학관-신세계관",
+    "start_building": "아산공학관",
+    "end_building": "신세계관",
+    "directions": [
+      "아산공학관 1층 출입문으로 나옴",
+      "이대부고와 이대 후문 방향으로 약 10분간 직진",
+      "신세계관 입구 도착"
+    ],
+    "path_image": "공대-경영대.png"
+  },
+  {
+    "path_name": "포도길",
+    "start_building": "포스코관",
+    "end_building": "중앙도서관",
+    "directions": [
+      "포스코관 1층 출입문으로 나옴",
+      "아령당과 본관 사이의 숲길을 지나감",
+      "공관과 간호대학 사이 길을 따라 이동",
+      "중앙도서관 입구 도착"
+    ],
+    "path_image": "포관-공대.png"
+  },
+  {
+    "path_name": "학관-ECC",
+    "start_building": "학관",
+    "end_building": "ECC",
+    "directions": [
+      "학관 4층 출입문으로 나옴",
+      "학문관을 지나 ECC 엘리베이터 타워 방향으로 이동"
+    ],
+    "path_image": "학관-ECC.png"
+  },
+  {
+    "path_name": "신세계관-ECC",
+    "start_building": "신세계관",
+    "end_building": "ECC",
+    "directions": [
+      "신세계관 1층 출입문으로 나옴",
+      "아이하우스 옆길로 이동",
+      "ECC 주차장 왼쪽 길을 따라 이동",
+      "국제교육관을 지나 우회전",
+      "ECC 출입문으로 진입"
+    ],
+    "path_image": "경영-ECC.png"
+  },
+  {
+    "path_name": "신세계관-포스코관",
+    "start_building": "신세계관",
+    "end_building": "포스코관",
+    "directions": [
+      "신세계관에서 경영대 방향으로 이동",
+      "아이하우스 옆길로 이동",
+      "ECC 주차장 왼쪽 길을 따라 이동",
+      "국제교육관을 지나 우회전",
+      "ECC 지하 4층으로 들어가 1층으로 나옴",
+      "진선미관 방향으로 직진 후 포스코관 1층 도착"
+    ],
+    "path_image": "경영관-포관.png"
+  },
+  {
+    "path_name": "ECC-생활환경관",
+    "start_building": "ECC",
+    "end_building": "생활환경관",
+    "directions": [
+      "ECC 지하 4층에서 이동 시작",
+      "대강당 계단을 오름",
+      "대강당 오른쪽 길을 따라 걸음",
+      "대강당과 중강당 사이 내리막길을 따라 내려감",
+      "좌측 생활환경관 입구 도착"
+    ],
+    "path_image": "ECC-생활관.png"
+  }
+]
